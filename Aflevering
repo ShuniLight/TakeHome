@@ -2,7 +2,6 @@
 \begin{document}
 First document. This is a simple example, with no 
 extra parameters or packages included.
-$\sqrt{3x-1}+(1+x)^2$
 \end{document}
 
 

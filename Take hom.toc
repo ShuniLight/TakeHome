@@ -1,8 +1,7 @@
 \contentsline {section}{\numberline {}Reeksamen februar 2015 opgave 1}{3}{}%
 \contentsline {section}{\numberline {}Reeksamen februar 2015 opgave 2}{5}{}%
 \contentsline {section}{\numberline {}Reeksamen februar 2015 opgave 3}{6}{}%
-\contentsline {section}{\numberline {1}Reeksamen febuar 2015 opgave 3}{6}{}%
-\contentsline {subsection}{\numberline {1.1}Lad R = {(1, 1), (2, 1), (2, 2), (2, 4), (3, 1), (3, 3), (3, 4), (4, 1), (4, 4)}.}{6}{}%
-\contentsline {subsection}{\numberline {1.2}Lad S = {(1, 2), (2, 3), (2, 4), (4, 2)}.}{7}{}%
-\contentsline {subsection}{\numberline {1.3}Lad T = {(1, 1), (1, 3), (2, 2), (2, 4), (3, 1), (3, 3), (4, 2), (4, 4)}}{8}{}%
+\contentsline {subsection}{\numberline {0.1}Lad R = {(1, 1), (2, 1), (2, 2), (2, 4), (3, 1), (3, 3), (3, 4), (4, 1), (4, 4)}.}{6}{}%
+\contentsline {subsection}{\numberline {0.2}Lad S = {(1, 2), (2, 3), (2, 4), (4, 2)}.}{7}{}%
+\contentsline {subsection}{\numberline {0.3}Lad T = {(1, 1), (1, 3), (2, 2), (2, 4), (3, 1), (3, 3), (4, 2), (4, 4)}}{8}{}%
 \contentsline {section}{\numberline {}Reeksamen januar 2012 opgave 1}{9}{}%
